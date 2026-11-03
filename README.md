@@ -11,7 +11,7 @@
 🚀 My Projects
 🍽️ Projet Recettes
 A web application for discovering and managing recipes, developed with Symfony and MySQL.
-
+link:https://github.com/MahloufInes/projet_recettes
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MakhloufInes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
